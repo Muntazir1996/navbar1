@@ -1,0 +1,93 @@
+.navbar .container-fluid{
+    background-color: #E7F6F2;
+    height: 100px;
+}
+.fa-solid{
+    width: 80px;
+    margin-left: 80%;}
+    .a{
+font-size: small;
+    }
+    .navbar .nav-link{
+        color: rgb(90, 86, 86);
+    }
+    .navbar .nav-link1{
+        border-right: 5px dotted rgb(126, 116, 116);
+
+    }
+    .fa-brands{
+        font-size: 40px;
+        margin-top: 30px;
+    }
+
+        .navv{
+            width: 60px;
+            height: 180px;
+            border-radius: 40%;
+        }
+  
+      
+    
+        #navbarSupportedContent  {
+            margin-right:50px;
+        }
+        .btn .btn-outline .x{
+
+            color: aqua;
+            background-color: black;
+        }
+        
+        .nav3{
+            margin-left: 20px;
+        }
+    
+    #x2{
+        border-radius: 250px;
+        border-color: rgb(68, 7, 77);
+        margin-bottom: 30px;
+        margin-left: 20px;
+    }
+    .navbar-toggler[aria-expanded="true" ]{
+        
+background-color: blue;        
+        
+        
+        
+    }
+.navbar-toggler{
+    background-color: aquamarine;
+    
+}
+.navbar-toggler:hover{
+    background-color: rgb(58, 55, 55);
+}
+.navbar-toggler:focus{
+    background-color: rgb(40, 119, 66);
+}
+    
+.navbar .navbar-collapse{
+    display: none;
+   
+   }
+  
+   
+   .fa-brands . {
+    color: blue;
+   }
+   .navbar .nav-link:focus{
+    color: rgb(187, 21, 137);    font-size: 25px;
+
+    
+}.navbar .nav-link:hover{
+    color: rgb(79, 182, 54);
+    font-size: 25px;
+}
+
+   .navbar{
+
+    height:1000px;
+    }
+   .container-fluid{
+    margin: 20%;
+    motion: view-box;
+   }
